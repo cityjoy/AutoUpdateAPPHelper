@@ -1,0 +1,7 @@
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdaterTool.dll
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\AutoUpdater\bin\Debug\AutoUpdaterTool.pdb
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\AutoUpdater\obj\Debug\AutoupdaterTool.DownloadConfirm.resources
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\AutoUpdater\obj\Debug\AutoupdaterTool.DownloadProgress.resources
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdaterTool.csproj.GenerateResource.Cache
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdaterTool.dll
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\AutoUpdater\obj\Debug\AutoUpdaterTool.pdb

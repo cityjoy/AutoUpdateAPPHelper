@@ -1,0 +1,12 @@
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\bin\Debug\AutoUpdater.config
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\bin\Debug\WindowsFormApp.exe.config
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\bin\Debug\WindowsFormApp.exe
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\bin\Debug\WindowsFormApp.pdb
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\obj\Debug\WindowsFormApp.csprojResolveAssemblyReference.cache
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\obj\Debug\WindowsFormApp.Form1.resources
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\obj\Debug\WindowsFormApp.Properties.Resources.resources
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\obj\Debug\WindowsFormApp.csproj.GenerateResource.Cache
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\obj\Debug\WindowsFormApp.exe
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\obj\Debug\WindowsFormApp.pdb
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\bin\Debug\AutoUpdater.dll
+F:\MyProject\2.Net FrameWork\AutoUpdater\sourceCode\AutoUpdater\WindowsFormApp\bin\Debug\AutoUpdater.pdb
